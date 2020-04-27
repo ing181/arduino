@@ -17,6 +17,8 @@
 !*/
 # Build folder ska inte vara med
 **/build-*
+# EXCLDE ska inte vara med
+**/EXCLUDE
 # and this
 !.gitignore
 !README.md
